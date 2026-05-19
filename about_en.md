@@ -1,6 +1,6 @@
 ## About
 
-This portal is a project of the **Canadian Census Data Discovery Partnership (CCDDP)**. The CCDDP project aims to facilitate historical research by reducing the barriers to access and use of Canadian census data. Using the search tab of this website you can discover historical and contemporary Canadian census materials held by numerous institutions across the country.
+This portal is a project of the [**Canadian Census Data Discovery Partnership (CCDDP)**] (https://cddp-pddr.ca/). The CCDDP project aims to facilitate historical research by reducing the barriers to access and use of Canadian census data. Using the search tab of this website you can discover historical and contemporary Canadian census materials held by numerous institutions across the country.
 
 Censuses, or population counts, have been conducted in the territory now known as Canada since 1665-66 in New France. Canada’s census is our most valuable primary economic, social, and cultural data set, and is an essential research tool for the formation of new knowledge and understanding about the populations that lived here in the past and present.
 
