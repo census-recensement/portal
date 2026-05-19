@@ -2,7 +2,7 @@
 
 The CCDDP census inventory consists of a custom set of metadata fields described in this data dictionary. Each inventoried item has a parallel metadata record in both the English and the French inventories. The inventories are searchable through our proof-of-concept portal, and can be downloaded from Borealis (link).
 
-For more information about the CCDDP project goals and scope, see the [project website](https://cddp-pddr.ca) and the project documentation on Borealis (link).
+For more information about the CCDDP project goals and scope, see the [project website](https://cddp-pddr.ca) and the project documentation on Borealis.
 
 ## Field descriptions
 
