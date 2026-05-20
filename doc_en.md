@@ -14,10 +14,9 @@ The CCDDP census inventory consists of a custom set of metadata fields which are
 - Authors/Publishers 
 - Publications 
 
+The authority lists, as well as additional documentation about the CCDDP project goals and scope, are available from the CCDDP [Borealis](https://borealisdata.ca/file.xhtml?fileId=1115102&version=2.0)repository. General information is also available from the [project website](https://cddp-pddr.ca)
 
-The CCDDP census inventory consists of a custom set of metadata fields described in this data dictionary. Each inventoried item has a parallel metadata record in both the English and the French inventories. The inventories are searchable through our proof-of-concept portal, and can be downloaded from [Borealis](https://borealisdata.ca/file.xhtml?fileId=1115102&version=2.0).
 
-For more information about the CCDDP project goals and scope, see the [project website](https://cddp-pddr.ca) and the project documentation on Borealis.
 
 ## Field descriptions
 
