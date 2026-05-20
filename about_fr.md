@@ -90,19 +90,19 @@ Si vous avez connaissance d'un produit de données ou d'une documentation d'appu
 L'inventaire se compose d'un ensemble personnalisé de champs de métadonnées décrits dans le dictionnaire des données (lien). Chaque item inventorié possède une fiche de métadonnées parallèle dans les inventaires anglais et français.
  
 
-Certains champs sont remplis à partir d'une liste d'autorité. Les listes d'autorité suivantes ont été créées par le projet du PDDRC. Elles contiennent souvent des informations contextuelles supplémentaires, telles que des définitions et des fourchettes de dates pour lesquelles la terminologie était utilisée :
+Certains champs sont remplis à partir d'une liste d'autorité. Les listes d'autorité suivantes ont été créées par le projet du PDDRC et peuvent être téléchargées à partir de [Borealis](https://borealisdata.ca/file.xhtml?fileId=1115137&version=2.0). Elles contiennent souvent des informations contextuelles supplémentaires, telles que des définitions et des fourchettes de dates pour lesquelles la terminologie était utilisée :
 
-- Liste de tous les recensements dans l'énoncé de travail (lien à venir)
+- Liste de tous les recensements dans l'énoncé de travail 
 
-- Sujets (lien à venir)
+- Sujets 
 
-- Couverture géographique (lien à venir)
+- Couverture géographique
 
-- Unités géographiques (lien à venir)
+- Unités géographiques
 
-- Auteurs/éditeurs (lien à venir)
+- Auteurs/éditeurs 
 
-- Publications (lien à venir)
+- Publications
 
 ## Découverte et accès aux données
 
