@@ -3,14 +3,16 @@
 ### Introduction
 
 The Canadian Census Data Inventory is a project of the Canadian Census Data Discovery Partnership (CCDDP). It is a comprehensive bilingual inventory of census data going back to 1665 and provides the foundation for the CCDDP’s planned Canadian census discovery portal. The inventory includes census data (aggregate data tables and microdata files), spatial materials (digital spatial data, reference maps, thematic maps), analytical reports and monographs, archival materials (census returns - when searchable access to digitized records is available), and all available documentation (such as general and item-specific reference materials, technical reports, geographic reference materials & attribute products).
+
 The CCDDP census inventory consists of a custom set of metadata fields which are described in this document. Each item was separately inventoried in English and in French. Some fields are populated from authority lists, which contain additional textual information such as definitions and date ranges for which terminology was in use. The following authority lists have been created by the CCDDP project:
-List of all censuses in scope 
-Content types 
-Subjects 
-Geographic coverage 
-Geographic units 
-Authors/Publishers 
-Publications 
+
+- List of all censuses in scope 
+- Content types 
+- Subjects 
+- Geographic coverage 
+- Geographic units 
+- Authors/Publishers 
+- Publications 
 
 
 The CCDDP census inventory consists of a custom set of metadata fields described in this data dictionary. Each inventoried item has a parallel metadata record in both the English and the French inventories. The inventories are searchable through our proof-of-concept portal, and can be downloaded from Borealis (link).
