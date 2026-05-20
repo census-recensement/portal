@@ -30,15 +30,13 @@ Please see the [project website](https://cddp-pddr.ca/)  for the full list of in
 
 ## Census Portal & Inventory
 
-This Census Portal allows you to search the CCDDP census inventory of historical and contemporary Canadian census data held by numerous institutions across the country.
+This Census Discovery Portal allows you to search the CCDDP census inventory of historical and contemporary Canadian census data held by numerous institutions across the country.
  
 
 ## Inventory scope
 
 The CCDDP census inventory covers data produced or generated for the population censuses going back to the first population counts conducted by colonial governments in the 17th and 18th centuries, and continues to the present day.
  
-
-**Disclaimer:** The census inventory contents are still being populated into this proof-of-concept portal, but will eventually include up to the 2021 census. As of 2025, there are currently over 18,000 census items inventoried for discovery and access by researchers and the general public. 
 
 Materials included in the inventory falls into the following categories:
 
