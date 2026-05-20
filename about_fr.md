@@ -113,11 +113,6 @@ Veuillez noter que le portail du PDDRC est un catalogue de métadonnées qui fou
  
 
 Le projet du PDDRC préconise une collaboration nationale pour assurer la préservation à long terme et l'accès à la grande variété de sources de données historiques du recensement détenues par le gouvernement et les institutions académiques. Si vous êtes un producteur de produits de données secondaires du recensement, nous vous encourageons à envisager de partager vos résultats de recherche dans un dépôt tel que Borealis et à nous faire connaître votre travail.
-
-## Le saviez-vous?
- 
-
-Si vous citez ou marquez vos ensembles de données avec des mots-clés incluant des documents sources tels que « données du recensement », nous pouvons les inclure dans l'inventaire du PDDRC et aider d'autres personnes à découvrir votre travail.
  
 
 ## Énoncé relatif à un langage préjudiciable ou offensant
