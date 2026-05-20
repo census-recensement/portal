@@ -104,7 +104,7 @@ Some fields are populated from an authority list. The following authority lists 
 
 ## Data discovery and access
 
-In addition to searching the content in this proof-of-concept portal, you may download the full database (link to Borealis). The database has been released under a CC-BY license. 
+In addition to searching the content in this discovery portal, you may [download the full database](https://doi.org/10.5683/SP3/J1NJYK). The database has been released under a CC-BY license. 
 
 Please note that the CCDDP portal is a metadata catalogue that provides links to the data custodian’s copy of the item. As such, links in the inventory will break from time to time. Please contact us at census@scholarsportal.info to report broken links or if you have any questions. 
 
