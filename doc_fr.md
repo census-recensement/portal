@@ -21,7 +21,7 @@ Liste de tous les recensements dans l'énoncé
 - Publications
  
 
-Les listes d'autorité, ainsi que de la documentation supplémentaire sur les objectifs et l'énoncé du projet du PDDRC, sont disponibles dans le dépôt Borealis (lien). Des informations générales sont également disponibles sur le site web du projet.
+Les listes d'autorité, ainsi que de la documentation supplémentaire sur les objectifs et l'énoncé du projet du PDDRC, sont disponibles dans le dépôt [Borealis](https://borealisdata.ca/file.xhtml?fileId=1115137&version=2.0) . Des informations générales sont également disponibles sur le [site web du projet](https://cddp-pddr.ca/).
 
 ## Utilisation de l’inventaire
 
