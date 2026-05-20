@@ -30,7 +30,7 @@ Veuillez consulter le [site web](https://cddp-pddr.ca/) du projet pour obtenir l
 
 ## Portail et inventaire du recensement
 
-Ce portail du recensement vous permet d'effectuer des recherches en utilisant l'inventaire de recensement du PDDRC provenant données historiques et contemporaines du recensement du Canada qui sont conservées par de nombreuses institutions à travers le pays.
+Ce portail de découverte du recensement permet d'effectuer des recherches en utilisant l'inventaire de recensement du PDDRC provenant données historiques et contemporaines du recensement du Canada qui sont conservées par de nombreuses institutions à travers le pays.
  
 
 ## Champ d'application de l'inventaire
