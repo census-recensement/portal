@@ -26,7 +26,7 @@ CCDDP partner organizations:
 
 - Statistics Canada
 
-Please see the project website for the full list of investigators and collaborators, and join our listserv to receive project updates.
+Please see the [project website](https://cddp-pddr.ca/)  for the full list of investigators and collaborators, and join our listserv to receive project updates.
 
 ## Census Portal & Inventory
 
