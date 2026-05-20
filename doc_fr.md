@@ -27,13 +27,14 @@ Les listes d'autorité, ainsi que de la documentation supplémentaire sur les ob
 
 Il existe deux méthodes pour effectuer une recherche dans l'inventaire des données du recensement du Canada :
 
-1.	Par le biais de la démonstration de faisabilité du portail de découverte. Ce portail a été créé par l'équipe du projet du PDDRC dans le cadre d'une une subvention de développement de partenariat du CRSH (2021-2025). Il s'agit uniquement d'une démonstration de ce qu'un portail de découverte du recensement du Canada pourrait offrir. Il ne s'agit pas d'un système prêt pour la production. Des problèmes techniques et des temps d'arrêt peuvent survenir. Cependant, nous sommes heureux d'y donner accès afin de faciliter la recherche de documents historiques du recensement.
+1.	Par le biais  du portail de découverte.
 
 2.	L'inventaire a été déposé dans le dépôt Borealis du PDDRC (lien) en format .csv. Notez que les fiches d'inventaire pour les deux langues ont été compilées dans un seul fichier de données, de sorte que chaque item du recensement apparaît deux fois (une fois pour chaque langue).
 
-a.	Des conseils pour effectuer des recherches dans la feuille de calcul de l'inventaire. Une façon simple de naviguer dans l'inventaire est d'ouvrir la feuille de calcul dans Excel et d'activer les filtres. Vous pouvez ensuite trier les documents de la base de données à l'aide des filtres. Par exemple, si vous ne souhaitez consulter que les métadonnées en français, filtrez le champ « rowLand » pour la valeur « fr ». Vous pouvez ensuite filtrer par année, sujet, unité géographique et d'autres colonnes.
+### Des conseils pour effectuer des recherches dans la feuille de calcul de l'inventaire. 
 
-b.	Notez que nous ne recommandons pas l'utilisation de la fonctionnalité « Explorateur de données » de Borealis pour explorer cet ensemble de données, car elle ne prend pas en compte certaines caractéristiques, telles que la présence de plusieurs valeurs dans une seule cellule.
+Une façon simple de naviguer dans l'inventaire est d'ouvrir la feuille de calcul dans Excel et d'activer les filtres. Vous pouvez ensuite trier les documents de la base de données à l'aide des filtres. Par exemple, si vous ne souhaitez consulter que les métadonnées en français, filtrez le champ « rowLand » pour la valeur « fr ». Vous pouvez ensuite filtrer par année, sujet, unité géographique et d'autres colonnes.
+Notez que nous ne recommandons pas l'utilisation de la fonctionnalité « Explorateur de données » de Borealis pour explorer cet ensemble de données, car elle ne prend pas en compte certaines caractéristiques, telles que la présence de plusieurs valeurs dans une seule cellule.
 
 ## Descriptions des champs
 
