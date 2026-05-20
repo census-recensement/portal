@@ -35,7 +35,7 @@ This Census Discovery Portal allows you to search the CCDDP census inventory of 
 
 ## Inventory scope
 
-The CCDDP census inventory covers data produced or generated for the population censuses going back to the first population counts conducted by colonial governments in the 17th and 18th centuries, and continues to the present day.
+The CCDDP census inventory covers data produced or generated for the population censuses going back to the first population counts conducted by colonial governments in the 17th and 18th centuries, and continues to the present day (2021 census).
  
 
 Materials included in the inventory falls into the following categories:
