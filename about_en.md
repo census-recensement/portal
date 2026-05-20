@@ -88,7 +88,7 @@ If you know of a data product or supporting documentation that is in scope but i
 The inventory consists of a custom set of metadata fields described in the Data Dictionary (link). Each inventoried item has a parallel metadata record in both the English and the French inventories.
  
 
-Some fields are populated from an authority list. The following authority lists have been created by the CCDDP project and be obtained from [Borealis](https://borealisdata.ca/file.xhtml?fileId=1115102&version=2.0). These authority lists often contain additional contextual information, such as definitions and date ranges for which terminology was in use:
+Some fields are populated from an authority list. The following authority lists have been created by the CCDDP project and can be obtained from [Borealis](https://borealisdata.ca/file.xhtml?fileId=1115102&version=2.0). These authority lists often contain additional contextual information, such as definitions and date ranges for which terminology was in use:
 
 - List of all censuses in scope 
 
