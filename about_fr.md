@@ -106,7 +106,7 @@ Certains champs sont remplis à partir d'une liste d'autorité. Les listes d'aut
 
 ## Découverte et accès aux données
 
-Outre la recherche dans le contenu de cette démonstration de faisabilité du portail, vous pouvez télécharger la base de données complète (lien vers Borealis). Elle a été publiée sous une licence CC-BY.
+Outre la recherche dans ce portail de découverte, il est possible de [télécharger la base de données complète](https://doi.org/10.5683/SP3/TFQP0F). Elle a été publiée sous une licence CC-BY.
  
 
 Veuillez noter que le portail du PDDRC est un catalogue de métadonnées qui fournit des liens vers la copie de l’item détenu par le dépositaire des données. En tant que tel, les liens dans l'inventaire se briseront de temps en temps. Veuillez nous contacter à l'adresse census@scholarsportal.info pour nous signaler les liens brisés ou si vous avez des questions.
