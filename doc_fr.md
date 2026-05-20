@@ -29,7 +29,7 @@ Il existe deux méthodes pour effectuer une recherche dans l'inventaire des donn
 
 1.	Par le biais  du portail de découverte.
 
-2.	L'inventaire a été déposé dans le dépôt Borealis du PDDRC (lien) en format .csv. Notez que les fiches d'inventaire pour les deux langues ont été compilées dans un seul fichier de données, de sorte que chaque item du recensement apparaît deux fois (une fois pour chaque langue).
+2.	L'inventaire a été déposé dans le [dépôt Borealis du PDDRC](https://doi.org/10.5683/SP3/TFQP0F) en format .csv. Notez que les fiches d'inventaire pour les deux langues ont été compilées dans un seul fichier de données, de sorte que chaque item du recensement apparaît deux fois (une fois pour chaque langue).
 
 ### Des conseils pour effectuer des recherches dans la feuille de calcul de l'inventaire. 
 
