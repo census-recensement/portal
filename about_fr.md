@@ -37,7 +37,6 @@ Ce portail de découverte du recensement permet d'effectuer des recherches en ut
 
 L'inventaire du recensement du PDDRC couvre les données produites ou générées pour les recensements de la population depuis les premiers comptages de la population effectués par les gouvernements coloniaux aux XVIIe et XVIIIe siècles jusqu'à aujourd'hui.
 
-**Note d'avertissement :** le contenu de l'inventaire du recensement est encore en cours d'intégration dans cette démonstration de faisabilité du portail, mais comprendra éventuellement des données jusqu'au recensement de 2021. En date de 2024, il y a actuellement plus de 18 000 items de recensement inventoriés pour la découverte et l'accès par les chercheurs et le grand public.
 
 Les éléments inclus dans l'inventaire se répartit entre les catégories suivantes :
    
