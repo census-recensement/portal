@@ -26,7 +26,7 @@ Organismes partenaires du PDDRC :
 
                         - Statistique Canada
 
-Veuillez consulter le site web du projet pour obtenir la liste complète des chercheurs et collaborateurs, et rejoignez notre listserv pour recevoir les mises à jour du projet.
+Veuillez consulter le [site web](https://cddp-pddr.ca/) du projet pour obtenir la liste complète des chercheurs et collaborateurs, et rejoignez notre listserv pour recevoir les mises à jour du projet.
 
 ## Portail et inventaire du recensement
 
