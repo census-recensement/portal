@@ -14,17 +14,17 @@ Organismes partenaires du PDDRC :
 
 - Bibliothèques de l’Université de Toronto
 
-    - Bibliothèque de l’Université de l’Alberta
+- Bibliothèque de l’Université de l’Alberta
 
-        - Bibliothèque de l’Université Concordia
+- Bibliothèque de l’Université Concordia
 
-            - Bibliothèque et Archives Canada
+- Bibliothèque et Archives Canada
 
-                - Bibliothèque de l’Université Mount Saint Vincent
+- Bibliothèque de l’Université Mount Saint Vincent
 
-                    - Bibliothèque de l’Université d’Ottawa
+- Bibliothèque de l’Université d’Ottawa
 
-                        - Statistique Canada
+- Statistique Canada
 
 Veuillez consulter le [site web](https://cddp-pddr.ca/) du projet pour obtenir la liste complète des chercheurs et collaborateurs, et rejoignez notre listserv pour recevoir les mises à jour du projet.
 
