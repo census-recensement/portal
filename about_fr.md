@@ -35,7 +35,7 @@ Ce portail de découverte du recensement permet d'effectuer des recherches en ut
 
 ## Champ d'application de l'inventaire
 
-L'inventaire du recensement du PDDRC couvre les données produites ou générées pour les recensements de la population depuis les premiers comptages de la population effectués par les gouvernements coloniaux aux XVIIe et XVIIIe siècles jusqu'à aujourd'hui.
+L'inventaire du recensement du PDDRC couvre les données produites ou générées pour les recensements de la population depuis les premiers comptages de la population effectués par les gouvernements coloniaux aux XVIIe et XVIIIe siècles jusqu'à aujourd'hui (recensement de 2021).
 
 
 Les éléments inclus dans l'inventaire se répartit entre les catégories suivantes :
