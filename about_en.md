@@ -52,25 +52,25 @@ Materials included in the inventory falls into the following categories:
 
 - Digital spatial data (e.g. GIS data)
 
-    - Reference maps
+- Reference maps
 
-        - Thematic maps
+- Thematic maps
 
 #### Census analysis
 
 - Analytical reports
 
-    - Monographs
+- Monographs
 
 #### Documentation
 
 - Accompanying materials: user guides, manuals, questionnaires
 
-    - General and item-specific reference materials
+- General and item-specific reference materials
 
-        - Technical reports
+- Technical reports
 
-            - Geographic reference materials & attribute products
+- Geographic reference materials & attribute products
 
 #### Archival materials
 
