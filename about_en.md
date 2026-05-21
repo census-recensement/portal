@@ -110,10 +110,6 @@ Please note that the CCDDP portal is a metadata catalogue that provides links to
 
 The CCDDP project advocates for national collaboration to ensure long-term preservation and access to the wide variety of historical census data sources held by government and academic institutions. If you are a creator of secondary census data products, we encourage you to consider sharing your research outputs in a repository such as Borealis and to let us know about your work 
 
-## Did you know?
- 
-
-If you cite or tag your datasets with keywords including source materials such as “census data”, we can include it in the CCDDP inventory and help others discover your work.
 
 ## Harmful language statement
 
