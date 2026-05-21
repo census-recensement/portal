@@ -23,7 +23,7 @@ There are two methods to search the Canadian Census Data Inventory:
 2. The inventory has been deposited into the [CCDDP Borealis repository](https://doi.org/10.5683/SP3/J1NJYK) in .csv format. Note that the inventory records for both languages have been compiled into a single data file, so each census item appears twice in the database (once for each language).
 
 ### Tips for searching the inventory spreadsheet. 
-One straightforward way to navigate the inventory is to open the spreadsheet in Excel and enable filters. You can then narrow down the records in the database using the filters. For example, if you only wish to look at French metadata, filter on field rowLand for the value ‘fr’. You can then filter by year, subject, geographic units, and other columns as desired.
+One straightforward way to navigate the inventory is to open the spreadsheet in Excel and enable filters. You can then narrow down the records in the database using the filters. For example, if you only wish to look at French metadata, filter on field rowLang for the value ‘fr’. You can then filter by year, subject, geographic units, and other columns as desired.
 Note that we do not recommend using the Data Explorer functionality in Borealis to explore this dataset, because it does not accommodate some features of this dataset (such as having multiple values in a single cell). 
 
 
