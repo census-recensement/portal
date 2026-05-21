@@ -33,7 +33,7 @@ Il existe deux méthodes pour effectuer une recherche dans l'inventaire des donn
 
 ### Des conseils pour effectuer des recherches dans la feuille de calcul de l'inventaire. 
 
-Une façon simple de naviguer dans l'inventaire est d'ouvrir la feuille de calcul dans Excel et d'activer les filtres. Vous pouvez ensuite trier les documents de la base de données à l'aide des filtres. Par exemple, si vous ne souhaitez consulter que les métadonnées en français, filtrez le champ « rowLand » pour la valeur « fr ». Vous pouvez ensuite filtrer par année, sujet, unité géographique et d'autres colonnes.
+Une façon simple de naviguer dans l'inventaire est d'ouvrir la feuille de calcul dans Excel et d'activer les filtres. Vous pouvez ensuite trier les documents de la base de données à l'aide des filtres. Par exemple, si vous ne souhaitez consulter que les métadonnées en français, filtrez le champ « rowLang » pour la valeur « fr ». Vous pouvez ensuite filtrer par année, sujet, unité géographique et d'autres colonnes.
 Notez que nous ne recommandons pas l'utilisation de la fonctionnalité « Explorateur de données » de Borealis pour explorer cet ensemble de données, car elle ne prend pas en compte certaines caractéristiques, telles que la présence de plusieurs valeurs dans une seule cellule.
 
 ## Descriptions des champs
