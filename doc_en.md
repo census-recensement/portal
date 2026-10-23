@@ -125,7 +125,7 @@ Multiple census years can be stored in this field. For example, if a data table 
 #### Values:
  
 
-Please consult the list of census years (link) for a complete list of the censuses included in the inventory.
+Please consult the [list of census years](https://borealisdata.ca/file.xhtml?fileId=1252340&version=3.0) for a complete list of the censuses included in the inventory.
 
 ---
 
@@ -161,7 +161,7 @@ The person or entity responsible for producing the census item.
 
 #### Values:
 
-Please consult the list of authors/producers (link) for a complete list of the authors/producers included in the inventory.
+Please consult the [list of authors/producers](https://borealisdata.ca/file.xhtml?fileId=1252345&version=3.0) for a complete list of the authors/producers included in the inventory.
 
 ---
 
@@ -179,7 +179,7 @@ Subjects are selected from an authority list created and maintained by the CCDDP
 
 #### Values:
 
-Please consult the subjects authority list (link).
+Please consult the [subjects authority list](https://borealisdata.ca/file.xhtml?fileId=1252339&version=3.0).
 
 ---
 
@@ -213,7 +213,7 @@ This field uses the terminology that was used to describe regions at the time of
 
 #### Values:
 
-Please consult the geographic coverage authority list (link).
+Please consult the [geographic coverage authority list](https://borealisdata.ca/file.xhtml?fileId=1252343&version=3.0).
 
 ---
 
@@ -229,7 +229,7 @@ This field uses the terminology indicated on the item itself, even when that ter
 
 #### Values:
 
-Please consult the geographic units authority list (link).
+Please consult the [geographic units authority list](https://borealisdata.ca/file.xhtml?fileId=1252341&version=3.0).
 
 ---
 
@@ -259,7 +259,7 @@ This field is completed for born-print items only and is completed only for item
 
 #### Values:
 
-Please consult the publications list (link).
+Please consult the [publications list](https://borealisdata.ca/file.xhtml?fileId=1252344&version=3.0).
 
 ---
 
