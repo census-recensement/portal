@@ -108,7 +108,7 @@ Only one year can be stored in this field. If the item was not published “with
 
 #### Values:
 
-Please consult the list of census years (link) for a complete list of the censuses included in the inventory.
+Please consult the [list of census years] ([link](https://borealisdata.ca/file.xhtml?fileId=1252340&version=3.0)) for a complete list of the censuses included in the inventory.
 
 ---
 
