@@ -183,7 +183,7 @@ Une seule année peut être enregistrée dans ce champ. Si l’item n'a pas ét�
 
 #### Valeurs : 
 
-Veuillez consulter la liste des années du recensement (lien) pour une liste complète des recensements inclus dans l'inventaire.
+Veuillez consulter la [liste des années du recensement](https://borealisdata.ca/file.xhtml?fileId=1252337&version=3.0) pour une liste complète des recensements inclus dans l'inventaire.
 
 ---
 
@@ -203,7 +203,7 @@ Plusieurs années de recensement peuvent être enregistrées dans ce champ. Par 
 
 #### Valeurs : 
 
-Veuillez consulter la liste des années du recensement (lien) pour une liste complète des recensements inclus dans l'inventaire.
+Veuillez consulter la [liste des années du recensement](https://borealisdata.ca/file.xhtml?fileId=1252337&version=3.0) pour une liste complète des recensements inclus dans l'inventaire.
 
 ---
 
@@ -234,7 +234,7 @@ itemAuthor
 La personne ou l'entité responsable de la création de l'item du recensement.
  
 
-Valeurs : Veuillez consulter la liste des auteurs/créateurs (lien) pour une liste complète inclus dans l'inventaire.
+Valeurs : Veuillez consulter la [liste des auteurs/créateurs](https://borealisdata.ca/file.xhtml?fileId=1252334&version=3.0) pour une liste complète inclus dans l'inventaire.
 
 ---
 
@@ -254,7 +254,7 @@ Les sujets sont sélectionnés à partir d'une liste d'autorités créée et mai
 
 #### Valeurs : 
 
-Veuillez consulter la liste d’autorité associée aux sujets (lien).
+Veuillez consulter la [liste d’autorité associée aux sujets](https://borealisdata.ca/file.xhtml?fileId=1252333&version=3.0).
 
 ---
 
@@ -295,7 +295,7 @@ Ce champ utilise la terminologie utilisée pour décrire les régions au moment 
 
 #### Valeurs : 
 
-Veuillez consulter la liste des autorités associées à la couverture géographique (lien).
+Veuillez consulter la [liste des autorités associées à la couverture géographique](https://borealisdata.ca/file.xhtml?fileId=1252332&version=3.0).
 
 ---
 
@@ -316,7 +316,7 @@ Ce champ utilise la terminologie indiquée sur l’item, même si cette terminol
 #### Valeurs :
  
 
-Veuillez consulter la liste des autorités associées aux unités géographiques (lien).
+Veuillez consulter la [liste des autorités associées aux unités géographiques](https://borealisdata.ca/file.xhtml?fileId=1252336&version=3.0).
 
 ---
 
@@ -353,7 +353,7 @@ Ce champ n'est rempli que pour les documents imprimés à la main et n'est rempl
 
 #### Valeurs : 
 
-Veuillez consulter la liste des publications (lien).
+Veuillez consulter la [liste des publications](https://borealisdata.ca/file.xhtml?fileId=1252338&version=3.0).
 
 ---
 
